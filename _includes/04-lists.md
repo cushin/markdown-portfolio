@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a list of my favorite things:
+- Playing League of Legends
+- Listening to depressing music
+- That is all
